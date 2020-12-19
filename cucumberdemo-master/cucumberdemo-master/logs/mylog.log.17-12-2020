@@ -1,0 +1,30 @@
+2020-12-17 17:27:36-main[ mainid]  INFO  Driver:19 -Browser Opened Successfully
+2020-12-17 17:27:39-main[ mainid]  INFO  OpenApplication:27 -user redirects to application
+2020-12-17 17:28:29-main[ mainid]  INFO  Driver:19 -Browser Opened Successfully
+2020-12-17 17:28:40-main[ mainid]  INFO  OpenApplication:27 -user redirects to application
+2020-12-17 17:28:43-main[ mainid]  INFO  HomePage:81 -user clicked on proceed button
+2020-12-17 17:28:43-main[ mainid]  INFO  HomePage:81 -user clicked in signin from menu
+2020-12-17 17:28:44-main[ mainid]  INFO  AuthenticationPage:34 -user entered email id
+2020-12-17 17:28:44-main[ mainid]  INFO  AuthenticationPage:41 -user entered password
+2020-12-17 17:28:47-main[ mainid]  INFO  AuthenticationPage:48 -user clicked on signIn button
+2020-12-17 17:28:48-main[ mainid]  INFO  HomePage:54 -user clicked on my personal info link
+2020-12-17 17:43:14-main[ mainid]  INFO  Driver:19 -Browser Opened Successfully
+2020-12-17 17:43:25-main[ mainid]  INFO  OpenApplication:27 -user redirects to application
+2020-12-17 17:43:29-main[ mainid]  INFO  HomePage:81 -user clicked on proceed button
+2020-12-17 17:43:29-main[ mainid]  INFO  HomePage:81 -user clicked in signin from menu
+2020-12-17 17:43:29-main[ mainid]  INFO  AuthenticationPage:34 -user entered email id
+2020-12-17 17:43:31-main[ mainid]  INFO  AuthenticationPage:41 -user entered password
+2020-12-17 17:43:34-main[ mainid]  INFO  AuthenticationPage:48 -user clicked on signIn button
+2020-12-17 17:43:34-main[ mainid]  INFO  HomePage:107 -user clicked on my order link
+2020-12-17 17:43:34-main[ mainid]  INFO  HomePage:89 -user clicked on tshirt menu
+2020-12-17 17:44:36-main[ mainid]  INFO  Driver:19 -Browser Opened Successfully
+2020-12-17 17:44:45-main[ mainid]  INFO  OpenApplication:27 -user redirects to application
+2020-12-17 17:44:48-main[ mainid]  INFO  HomePage:81 -user clicked on proceed button
+2020-12-17 17:44:48-main[ mainid]  INFO  HomePage:81 -user clicked in signin from menu
+2020-12-17 17:44:48-main[ mainid]  INFO  AuthenticationPage:34 -user entered email id
+2020-12-17 17:44:49-main[ mainid]  INFO  AuthenticationPage:41 -user entered password
+2020-12-17 17:44:51-main[ mainid]  INFO  AuthenticationPage:48 -user clicked on signIn button
+2020-12-17 17:44:53-main[ mainid]  INFO  HomePage:54 -user clicked on my personal info link
+2020-12-17 17:44:54-main[ mainid]  INFO  PersonalInfoPage:48 -user enter first name and password
+2020-12-17 17:44:56-main[ mainid]  INFO  PersonalInfoPage:57 -User clicked on save button
+2020-12-17 17:44:56-main[ mainid]  INFO  HomePage:62 -first name updated successfully

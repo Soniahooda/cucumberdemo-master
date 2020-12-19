@@ -1,0 +1,72 @@
+2020-12-19 17:31:01-main[ mainid]  INFO  Driver:19 -Browser Opened Successfully
+2020-12-19 17:31:12-main[ mainid]  INFO  OpenApplication:27 -user redirects to application
+2020-12-19 17:31:14-main[ mainid]  INFO  HomePage:81 -user clicked on proceed button
+2020-12-19 17:31:14-main[ mainid]  INFO  HomePage:81 -user clicked in signin from menu
+2020-12-19 17:31:15-main[ mainid]  INFO  AuthenticationPage:34 -user entered email id
+2020-12-19 17:31:15-main[ mainid]  INFO  AuthenticationPage:41 -user entered password
+2020-12-19 17:31:17-main[ mainid]  INFO  AuthenticationPage:48 -user clicked on signIn button
+2020-12-19 17:31:17-main[ mainid]  INFO  HomePage:107 -user clicked on my order link
+2020-12-19 17:31:17-main[ mainid]  INFO  HomePage:89 -user clicked on tshirt menu
+2020-12-19 17:32:21-main[ mainid]  INFO  Driver:19 -Browser Opened Successfully
+2020-12-19 17:32:33-main[ mainid]  INFO  OpenApplication:27 -user redirects to application
+2020-12-19 17:32:37-main[ mainid]  INFO  HomePage:81 -user clicked on proceed button
+2020-12-19 17:32:37-main[ mainid]  INFO  HomePage:81 -user clicked in signin from menu
+2020-12-19 17:32:37-main[ mainid]  INFO  AuthenticationPage:34 -user entered email id
+2020-12-19 17:32:37-main[ mainid]  INFO  AuthenticationPage:41 -user entered password
+2020-12-19 17:32:39-main[ mainid]  INFO  AuthenticationPage:48 -user clicked on signIn button
+2020-12-19 17:32:39-main[ mainid]  INFO  HomePage:54 -user clicked on my personal info link
+2020-12-19 22:24:15-main[ mainid]  INFO  Driver:19 -Browser Opened Successfully
+2020-12-19 22:24:29-main[ mainid]  INFO  OpenApplication:27 -user redirects to application
+2020-12-19 22:24:35-main[ mainid]  INFO  HomePage:81 -user clicked on proceed button
+2020-12-19 22:24:35-main[ mainid]  INFO  HomePage:81 -user clicked in signin from menu
+2020-12-19 22:24:38-main[ mainid]  INFO  AuthenticationPage:34 -user entered email id
+2020-12-19 22:24:38-main[ mainid]  INFO  AuthenticationPage:41 -user entered password
+2020-12-19 22:24:42-main[ mainid]  INFO  AuthenticationPage:48 -user clicked on signIn button
+2020-12-19 22:24:42-main[ mainid]  INFO  HomePage:107 -user clicked on my order link
+2020-12-19 22:24:42-main[ mainid]  INFO  HomePage:89 -user clicked on tshirt menu
+2020-12-19 22:25:56-main[ mainid]  INFO  Driver:19 -Browser Opened Successfully
+2020-12-19 22:26:08-main[ mainid]  INFO  OpenApplication:27 -user redirects to application
+2020-12-19 22:26:11-main[ mainid]  INFO  HomePage:81 -user clicked on proceed button
+2020-12-19 22:26:11-main[ mainid]  INFO  HomePage:81 -user clicked in signin from menu
+2020-12-19 22:26:12-main[ mainid]  INFO  AuthenticationPage:34 -user entered email id
+2020-12-19 22:26:13-main[ mainid]  INFO  AuthenticationPage:41 -user entered password
+2020-12-19 22:26:13-main[ mainid]  INFO  AuthenticationPage:48 -user clicked on signIn button
+2020-12-19 22:26:13-main[ mainid]  INFO  HomePage:54 -user clicked on my personal info link
+2020-12-19 22:46:56-main[ mainid]  INFO  Driver:19 -Browser Opened Successfully
+2020-12-19 22:47:08-main[ mainid]  INFO  OpenApplication:27 -user redirects to application
+2020-12-19 22:47:11-main[ mainid]  INFO  HomePage:81 -user clicked on proceed button
+2020-12-19 22:47:11-main[ mainid]  INFO  HomePage:81 -user clicked in signin from menu
+2020-12-19 22:47:13-main[ mainid]  INFO  AuthenticationPage:34 -user entered email id
+2020-12-19 22:47:13-main[ mainid]  INFO  AuthenticationPage:41 -user entered password
+2020-12-19 22:47:17-main[ mainid]  INFO  AuthenticationPage:48 -user clicked on signIn button
+2020-12-19 22:47:21-main[ mainid]  INFO  HomePage:107 -user clicked on my order link
+2020-12-19 22:47:27-main[ mainid]  INFO  HomePage:89 -user clicked on tshirt menu
+2020-12-19 22:47:28-main[ mainid]  INFO  HomePage:99 -user clicked on add to cart
+2020-12-19 22:47:33-main[ mainid]  INFO  HomePage:75 -user clicked on proceed  to checkout button
+2020-12-19 22:47:36-main[ mainid]  INFO  CartSummaryPage:32 -user clicked on proceed button
+2020-12-19 22:47:39-main[ mainid]  INFO  AddressPage:32 -user clicked on proceed button
+2020-12-19 22:47:39-main[ mainid]  INFO  ShippingPage:36 -user select terms and condition checkbox
+2020-12-19 22:47:41-main[ mainid]  INFO  ShippingPage:44 -user clicked on proceed button
+2020-12-19 22:47:43-main[ mainid]  INFO  PayementPage:31 -User clicked pay by check option
+2020-12-19 22:47:45-main[ mainid]  INFO  OrderSummaryPage:43 -user clicked on confirm order button
+2020-12-19 22:47:45-main[ mainid]  INFO  OrderSummaryPage:36 -order id fetched successfully
+2020-12-19 22:47:46-main[ mainid]  INFO  HomePage:107 -user clicked on my order link
+2020-12-19 22:47:47-main[ mainid]  INFO  OrderHistoryPage:35 -Order is present in order history table
+2020-12-19 22:48:03-main[ mainid]  INFO  Driver:19 -Browser Opened Successfully
+2020-12-19 22:48:16-main[ mainid]  INFO  OpenApplication:27 -user redirects to application
+2020-12-19 22:48:19-main[ mainid]  INFO  HomePage:81 -user clicked on proceed button
+2020-12-19 22:48:19-main[ mainid]  INFO  HomePage:81 -user clicked in signin from menu
+2020-12-19 22:48:19-main[ mainid]  INFO  AuthenticationPage:34 -user entered email id
+2020-12-19 22:48:20-main[ mainid]  INFO  AuthenticationPage:41 -user entered password
+2020-12-19 22:48:20-main[ mainid]  INFO  AuthenticationPage:48 -user clicked on signIn button
+2020-12-19 22:48:20-main[ mainid]  INFO  HomePage:54 -user clicked on my personal info link
+2020-12-19 22:51:04-main[ mainid]  INFO  Driver:19 -Browser Opened Successfully
+2020-12-19 22:51:14-main[ mainid]  INFO  OpenApplication:27 -user redirects to application
+2020-12-19 22:51:18-main[ mainid]  INFO  HomePage:81 -user clicked on proceed button
+2020-12-19 22:51:18-main[ mainid]  INFO  HomePage:81 -user clicked in signin from menu
+2020-12-19 22:51:19-main[ mainid]  INFO  AuthenticationPage:34 -user entered email id
+2020-12-19 22:51:19-main[ mainid]  INFO  AuthenticationPage:41 -user entered password
+2020-12-19 22:51:23-main[ mainid]  INFO  AuthenticationPage:48 -user clicked on signIn button
+2020-12-19 22:51:25-main[ mainid]  INFO  HomePage:107 -user clicked on my order link
+2020-12-19 22:51:29-main[ mainid]  INFO  HomePage:89 -user clicked on tshirt menu
+2020-12-19 22:51:30-main[ mainid]  INFO  HomePage:99 -user clicked on add to cart
